@@ -42,7 +42,6 @@ tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow==2.15.0
 tensorflow-estimator==2.15.0
-tensorflow-intel==2.15.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.3.0
@@ -51,4 +50,4 @@ urllib3==2.2.1
 Werkzeug==3.0.1
 wrapt==1.14.1
 zipp==3.17.0
-python==3.9.7
+
